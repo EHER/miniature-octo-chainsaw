@@ -1,0 +1,9 @@
+{
+    "name": "eher/fuzzy-tribble",
+    "autoload": {
+        "psr-4": {
+            "Eher\\FuzzyTribble\\": "src/"
+        }
+    },
+    "require": {}
+}
